@@ -39,8 +39,9 @@ const Home = () => {
                   src={baguioLogo} 
                   alt="Baguio Pet Boarding Logo" 
                   className="img-fluid"
-                  style={{ opacity: 0 }}
-                  
+                  style={{ 
+                    visibility: 'hidden', // Hides the image but keeps its space
+                  }}
                 />
               </div>
             </Col>
