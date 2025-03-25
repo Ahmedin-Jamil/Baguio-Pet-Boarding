@@ -39,6 +39,7 @@ const Home = () => {
                   src={baguioLogo} 
                   alt="Baguio Pet Boarding Logo" 
                   className="img-fluid"
+                  opacity: 0;
                   style={{ width: '100px', height: '430px', opacity: 0 }}
                 />
               </div>
