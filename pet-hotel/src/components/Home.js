@@ -39,9 +39,7 @@ const Home = () => {
                   src={baguioLogo} 
                   alt="Baguio Pet Boarding Logo" 
                   className="img-fluid"
-                  style={{ 
-                    visibility: 'hidden', // Hides the image but keeps its space
-                  }}
+                  style={{ width: '100px', height: '430px', opacity: 0 }}
                 />
               </div>
             </Col>
@@ -223,7 +221,6 @@ const Home = () => {
           </Row>
         </Container>
       </div>
-      
 
       {/* Help Button */}
       <div className="help-section">
