@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/baguio-pet-boarding/static/css/main.75f2683c.css",
+    "main.js": "/baguio-pet-boarding/static/js/main.a7b569c0.js",
+    "static/js/453.28da10d3.chunk.js": "/baguio-pet-boarding/static/js/453.28da10d3.chunk.js",
+    "static/media/4.4.png": "/baguio-pet-boarding/static/media/4.4.39f8f93de9b8582cd6d0.png",
+    "static/media/baguio-google-map.png": "/baguio-pet-boarding/static/media/baguio-google-map.b2606210651e3e8eb43b.png",
+    "static/media/logo192.png": "/baguio-pet-boarding/static/media/logo192.92305eb643beb3294751.png",
+    "static/media/pet-background.svg": "/baguio-pet-boarding/static/media/pet-background.47101ed0bbdd105c38e8b3069c08c6ad.svg",
+    "index.html": "/baguio-pet-boarding/index.html",
+    "main.75f2683c.css.map": "/baguio-pet-boarding/static/css/main.75f2683c.css.map",
+    "main.a7b569c0.js.map": "/baguio-pet-boarding/static/js/main.a7b569c0.js.map",
+    "453.28da10d3.chunk.js.map": "/baguio-pet-boarding/static/js/453.28da10d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f2683c.css",
+    "static/js/main.a7b569c0.js"
+  ]
+}
